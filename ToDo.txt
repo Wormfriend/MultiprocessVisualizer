@@ -1,5 +1,0 @@
-Manual Testing:
-- Try out different resolutions for end result
-
-Comments:
-- Go through code and at docstrings
